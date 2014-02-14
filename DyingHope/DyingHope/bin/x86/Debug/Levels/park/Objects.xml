@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <NeuesObjekt>
+    <PositionX>236</PositionX>
+    <PositionY>549</PositionY>
+    <Ebene>4</Ebene>
+    <Typ>Tempel</Typ>
+    <Objektebene>Hintergrund</Objektebene>
+    <Variante>6</Variante>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <PositionX>1215</PositionX>
+    <PositionY>438</PositionY>
+    <Ebene>4</Ebene>
+    <Typ>Tempel</Typ>
+    <Objektebene>Hintergrund</Objektebene>
+    <Variante>0</Variante>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <PositionX>-74</PositionX>
+    <PositionY>556</PositionY>
+    <Ebene>4</Ebene>
+    <Typ>Tempel</Typ>
+    <Objektebene>Hintergrund</Objektebene>
+    <Variante>7</Variante>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <PositionX>580</PositionX>
+    <PositionY>217</PositionY>
+    <Ebene>4</Ebene>
+    <Typ>Tempel</Typ>
+    <Variante>14</Variante>
+  </NeuesObjekt>
+</Objects>

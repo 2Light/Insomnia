@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schalter>
+  <NeuerSchalter>
+    <Name>Neuer Schalter</Name>
+    <Einmalig>false</Einmalig>
+    <Rücksetzen>false</Rücksetzen>
+    <PositionX>7733</PositionX>
+    <PositionY>736</PositionY>
+  </NeuerSchalter>
+</Schalter>

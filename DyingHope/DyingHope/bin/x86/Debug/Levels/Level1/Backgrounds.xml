@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Backgrounds>
+  <NewBackground>
+    <Textur>Seamless Backround</Textur>
+    <ScrollX>50</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>0</VersatzY>
+    <Startposition>1</Startposition>
+    <Endposition>10000</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>Seamless Hinterste Haeusereihe</Textur>
+    <ScrollX>60</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>0</VersatzY>
+    <Startposition>1</Startposition>
+    <Endposition>10000</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>Seamless Mittlere Haeusereihe</Textur>
+    <ScrollX>70</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>0</VersatzY>
+    <Startposition>1</Startposition>
+    <Endposition>10000</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>ground</Textur>
+    <ScrollX>100</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>900</VersatzY>
+    <Startposition>1</Startposition>
+    <Endposition>10000</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>Asphalt</Textur>
+    <ScrollX>100</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>880</VersatzY>
+    <Startposition>1</Startposition>
+    <Endposition>10000</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>Baum1_Set</Textur>
+    <ScrollX>65</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>570</VersatzY>
+    <Startposition>5930</Startposition>
+    <Endposition>6034</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>Baum2_Set</Textur>
+    <ScrollX>75</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>370</VersatzY>
+    <Startposition>6905</Startposition>
+    <Endposition>7802</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>Baum3_Set</Textur>
+    <ScrollX>80</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>200</VersatzY>
+    <Startposition>7377</Startposition>
+    <Endposition>8596</Endposition>
+  </NewBackground>
+</Backgrounds>
