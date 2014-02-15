@@ -127,3 +127,4 @@ C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\12.02.2014 - 8\Dyin
 C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014\DyingHope\DyingHopeContent\obj\x86\Debug\DyingHopeContent.contentprojResolveAssemblyReference.cache
 C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 2\DyingHope\DyingHopeContent\obj\x86\Debug\DyingHopeContent.contentprojResolveAssemblyReference.cache
 C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 4\DyingHope\DyingHopeContent\obj\x86\Debug\DyingHopeContent.contentprojResolveAssemblyReference.cache
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHopeContent\obj\x86\Debug\DyingHopeContent.contentprojResolveAssemblyReference.cache

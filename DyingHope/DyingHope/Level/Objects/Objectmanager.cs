@@ -147,11 +147,11 @@ namespace DyingHope
             objekt.Geschwindigkeit.Y += Gravitation;   //Graviation erhöht Fallgeschwindigkeit
             if (objekt.Geschwindigkeit.Y > objekt.MaxSpeed.Y) objekt.Geschwindigkeit.Y = objekt.MaxSpeed.Y; //Maximale Fallgeschwindigkeit
             //Boden-------------------------------------------------------------------------------------------------
-            if (objekt.PositionCurrent.Y >= Levelmanager.AktuellesLevel.Walkline + 200 - objekt.Objektvariante.Texturausschnitt.Height)   //Landung
-            {
-                objekt.PositionCurrent.Y = Levelmanager.AktuellesLevel.Walkline + 200 - objekt.Objektvariante.Texturausschnitt.Height;
-                objekt.Geschwindigkeit.Y = 0;
-            }
+            //if (objekt.PositionCurrent.Y >= Levelmanager.AktuellesLevel.Walkline + 200 - objekt.Objektvariante.Texturausschnitt.Height)   //Landung
+            //{
+            //    objekt.PositionCurrent.Y = Levelmanager.AktuellesLevel.Walkline + 200 - objekt.Objektvariante.Texturausschnitt.Height;
+            //    objekt.Geschwindigkeit.Y = 0;
+            //}
         }
 
         public void ObjektEditieren(Vector3 position, float skalierung, ObjectClass objectclass, int variante, Objektebene objektebene, bool statisch)
