@@ -2,9 +2,9 @@
 <Schalter>
   <NeuerSchalter>
     <Name>Neuer Schalter</Name>
-    <Einmalig>true</Einmalig>
+    <Einmalig>false</Einmalig>
     <Rücksetzen>false</Rücksetzen>
-    <PositionX>803</PositionX>
-    <PositionY>712</PositionY>
+    <PositionX>10946</PositionX>
+    <PositionY>739</PositionY>
   </NeuerSchalter>
 </Schalter>

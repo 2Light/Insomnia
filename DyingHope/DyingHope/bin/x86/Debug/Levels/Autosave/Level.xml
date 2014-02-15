@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Level>
-  <PositionX>0</PositionX>
-  <PositionY>715</PositionY>
+  <PositionX>163</PositionX>
+  <PositionY>712</PositionY>
   <Helligkeit>0</Helligkeit>
-  <Walkline>715</Walkline>
+  <Walkline>740</Walkline>
   <DepressionRate>0</DepressionRate>
   <VordergrundAbdunkelung>255</VordergrundAbdunkelung>
 </Level>
