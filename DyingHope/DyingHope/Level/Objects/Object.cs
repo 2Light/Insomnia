@@ -40,7 +40,7 @@ namespace DyingHope
             this.BearbeitungsID = (int)PositionCurrent.Y + (int)Objektvariante.Bearbeitungsverschiebung.Y + (Layer * 1000);
             if (Objektvariante.Animiert == true)
             {
-                Animation = new Animation(Objektvariante.Textur, Objektvariante.Wiederholen, Objektvariante.Spalten, Objektvariante.Texturausschnitt.Width, Objektvariante.Texturausschnitt.Height, skalierung, Objektvariante.Geschwindigkeit);
+                Animation = new Animation(Objektvariante.Textur, Objektvariante.Wiederholen, Objektvariante.Spalten, Objektvariante.Texturausschnitt, skalierung, Objektvariante.Geschwindigkeit);
                 animationsmanager.AddAnimation(Animation);
             }
         }

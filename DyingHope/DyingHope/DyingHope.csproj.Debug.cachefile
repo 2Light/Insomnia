@@ -67,6 +67,9 @@ Content\Player\Climb2.xnb
 Content\Objects\Tempel.xnb
 Content\Player\Lever.xnb
 Content\Objects\Schalter.xnb
+Content\Objects\gras_schraegen.xnb
+Content\Objects\gras_schraegen_gespiegelt.xnb
+Content\Objects\Tempel2.xnb
 Content\Meiryo8.xnb
 Content\Font.xnb
 Content\Effects\Shader\GrayScale.xnb
@@ -89,6 +92,9 @@ Content\Musik\1-5(Monster) Loop.xnb
 Content\Musik\1-6(Ende).xnb
 Content\Sound Effects\light.xnb
 Content\Sound Effects\rain.xnb
+Content\Objects\Tempel3.xnb
+Content\Objects\Fuchsbau.xnb
+Content\Objects\Wohnung.xnb
 Enemys.xml
 Objects.xml
 Settings.xml

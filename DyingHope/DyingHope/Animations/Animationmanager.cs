@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
 namespace DyingHope
@@ -15,9 +16,9 @@ namespace DyingHope
             Animation.Add(animation);  //Neue Animation erstellen
         }
 
-        public void AddAnimation(Texture2D texture, bool wiederholen, int spalte, int breite, int höhe, float skalierung, int geschwindigkeit)
+        public void AddAnimation(Texture2D texture, bool wiederholen, int spalte, Rectangle frame, float skalierung, int geschwindigkeit)
         {
-            Animation.Add(new Animation(texture, wiederholen, spalte, breite, höhe, skalierung, geschwindigkeit));  //Neue Animation erstellen
+            Animation.Add(new Animation(texture, wiederholen, spalte, frame, skalierung, geschwindigkeit));  //Neue Animation erstellen
         }
 
         public void RemoveAnimation(Animation animation)

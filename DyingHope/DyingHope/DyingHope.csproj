@@ -153,7 +153,6 @@
     <Compile Include="Player\Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Renderer\Renderer.cs" />
     <Compile Include="Sound\BackgroundMusic.cs" />
     <Compile Include="Sound\Song.cs" />
     <Compile Include="Sound\SoundObjekt.cs" />
@@ -175,7 +174,11 @@
     <Content Include="Enemys.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Objects.xml" />
+    <Content Include="..\..\..\..\..\Dropbox\Dying Hope %281%29\Objects.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+      <Link>Objects.xml</Link>
+    </Content>
     <Content Include="Settings.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <SubType>Designer</SubType>

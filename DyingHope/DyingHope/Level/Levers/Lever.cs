@@ -25,7 +25,7 @@ namespace DyingHope
         public Lever(Vector2 maße, Texture2D texture)  //Konstruktor Editor
         {
             Maße = maße;
-            Animation = new Animation(texture, false, 5, (int)maße.X, (int)maße.Y, 1, 7);
+            Animation = new Animation(texture, false, 5, new Rectangle(0, 0, (int)maße.X, (int)maße.Y), 1, 7);
             Mittelpunkt = new Vector2(maße.X / 2, maße.Y / 2);
         }
 

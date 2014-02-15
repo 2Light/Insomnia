@@ -130,7 +130,7 @@ namespace DyingHope
             Texturen[3] = contents.Player4;
             Texturen[4] = contents.Player5;
             Texturen[5] = contents.Player6;
-            Animation = new Animation(Texturen[0], true, 1, 200, 200, 1, 6);
+            Animation = new Animation(Texturen[0], true, 1, new Rectangle(0, 0, 200, 200), 1, 6);
             Blickrichtung = Richtung.Rechts;
             Playerstate = Playerstates.Idle;
             MaxSpeed = new Vector2(6, 12);

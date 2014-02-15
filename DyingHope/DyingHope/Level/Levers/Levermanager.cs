@@ -57,7 +57,7 @@ namespace DyingHope
             {
                 Animationsmanager.AddAnimation(LeverInRange.Animation); //Animation zur Dauerbearbeitung übergeben
                 Player.Statuswechsel(Playerstates.Lever);   //Schalter bewegen Animation starten
-                Player.PositionCurrent = new Vector2(LeverInRange.Position.X + LeverInRange.Mittelpunkt.X - 640, LeverInRange.Position.Y + LeverInRange.Animation.Höhe - Player.Animation.Höhe);    //Spieler zum Schalter bewegen
+                Player.PositionCurrent = new Vector2(LeverInRange.Position.X + LeverInRange.Mittelpunkt.X - 640, LeverInRange.Position.Y + LeverInRange.Animation.Frame.Height - Player.Animation.Frame.Height);    //Spieler zum Schalter bewegen
                 if (LeverInRange.Betätigt) Player.Blickrichtung = Richtung.Links; else Player.Blickrichtung = Richtung.Rechts;
                 if (Player.Blickrichtung == Richtung.Links) Player.PositionCurrent.X += 35; else Player.PositionCurrent.X -= 35;
             }

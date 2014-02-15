@@ -71,7 +71,7 @@ namespace DyingHope
             {
                 if (Texturname[i] == "Idle")
                 {
-                    Animation = new Animation(Textur[i], true, Spalten[i], (int)Texturmaße.X, (int)Texturmaße.Y, skalierung, AniGeschwindigkeit[i]); break;
+                    Animation = new Animation(Textur[i], true, Spalten[i], new Rectangle(0, 0, (int)Texturmaße.X, (int)Texturmaße.Y), skalierung, AniGeschwindigkeit[i]); break;
                 }
             }
         }

@@ -297,7 +297,7 @@
     <Texturpfad>Bausteine</Texturpfad>
     <NeueVariation>
       <Name>Schullampe, an</Name>
-      <TexturausschnittBreite>882</TexturausschnittBreite>
+      <TexturausschnittBreite>884</TexturausschnittBreite>
       <TexturausschnittHöhe>1869</TexturausschnittHöhe>
       <NeueKollision>
         <PosX>216</PosX>
@@ -309,7 +309,7 @@
     <NeueVariation>
       <Name>Schullampe, aus</Name>
       <TexturausschnittX>884</TexturausschnittX>
-      <TexturausschnittBreite>882</TexturausschnittBreite>
+      <TexturausschnittBreite>884</TexturausschnittBreite>
       <TexturausschnittHöhe>1869</TexturausschnittHöhe>
       <NeueKollision>
         <PosX>216</PosX>
@@ -1361,7 +1361,7 @@
       <TexturausschnittX>846</TexturausschnittX>
       <TexturausschnittY>564</TexturausschnittY>
       <TexturausschnittBreite>141</TexturausschnittBreite>
-      <TexturausschnittHöhe>307</TexturausschnittHöhe>
+      <TexturausschnittHöhe>161</TexturausschnittHöhe>
       <NeueKollision>
         <PosX>0</PosX>
         <PosY>21</PosY>
@@ -1950,6 +1950,219 @@
       <TexturausschnittY>1365</TexturausschnittY>
       <TexturausschnittBreite>308</TexturausschnittBreite>
       <TexturausschnittHöhe>254</TexturausschnittHöhe>
+    </NeueVariation>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <Typ>BloeckeSchwarz</Typ>
+    <Texturpfad>bloecke_schwarz</Texturpfad>
+    <NeueVariation>
+      <Name>Block</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>ecke_links_oben</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>350</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>ecke_links_unten</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>700</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>ecke_rechts_unten</Name>
+      <TexturausschnittX>350</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>ecke_rechts_oben</Name>
+      <TexturausschnittX>350</TexturausschnittX>
+      <TexturausschnittY>350</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>decke</Name>
+      <TexturausschnittX>350</TexturausschnittX>
+      <TexturausschnittY>700</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>boden</Name>
+      <TexturausschnittX>700</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>wand_links</Name>
+      <TexturausschnittX>700</TexturausschnittX>
+      <TexturausschnittY>350</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>wand_rechts</Name>
+      <TexturausschnittX>700</TexturausschnittX>
+      <TexturausschnittY>700</TexturausschnittY>
+      <TexturausschnittBreite>303</TexturausschnittBreite>
+      <TexturausschnittHöhe>303</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>303</Width>
+        <Height>303</Height>
+      </NeueKollision>
+    </NeueVariation>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <Typ>Gras_schraegen_gespiegelt</Typ>
+    <Texturpfad>gras_schraegen_gespiegelt</Texturpfad>
+    <NeueVariation>
+      <Name>schraege_gespiegelt_00</Name>
+      <TextureausschnittX>0</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_gespiegelt_01</Name>
+      <TextureausschnittX>0</TextureausschnittX>
+      <TextureausschnittY>500</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_gespiegelt_02</Name>
+      <TextureausschnittX>300</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_gespiegelt_03</Name>
+      <TextureausschnittX>300</TextureausschnittX>
+      <TextureausschnittY>500</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_gespiegelt_04</Name>
+      <TextureausschnittX>600</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_gespiegelt_anfang</Name>
+      <TextureausschnittX>600</TextureausschnittX>
+      <TextureausschnittY>500</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>157</TexturausschnittHöhe>
+    </NeueVariation>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <Typ>Gras_schraegen</Typ>
+    <Texturpfad>gras_schraegen</Texturpfad>
+    <NeueVariation>
+      <Name>schraege_00</Name>
+      <TextureausschnittX>0</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_01</Name>
+      <TextureausschnittX>0</TextureausschnittX>
+      <TextureausschnittY>500</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_02</Name>
+      <TextureausschnittX>300</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_03</Name>
+      <TextureausschnittX>300</TextureausschnittX>
+      <TextureausschnittY>500</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_04</Name>
+      <TextureausschnittX>600</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>298</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>schraege_anfang</Name>
+      <TextureausschnittX>600</TextureausschnittX>
+      <TextureausschnittY>500</TextureausschnittY>
+      <TexturausschnittBreite>423</TexturausschnittBreite>
+      <TexturausschnittHöhe>157</TexturausschnittHöhe>
     </NeueVariation>
   </NeuesObjekt>
 </Objektdaten>

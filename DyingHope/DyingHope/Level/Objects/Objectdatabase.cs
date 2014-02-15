@@ -31,7 +31,13 @@ namespace DyingHope
         Grasbloecke,
         Grasstreifen,
         Tempel,
+        Tempel2,
+        Tempel3,
         Blaetter,
+        Grasschraegen1,
+        Grasschraegen2,
+        Fuchsbau,
+        Wohnung,
     }
 
     class Objectdatabase
