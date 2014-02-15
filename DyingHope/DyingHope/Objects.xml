@@ -483,6 +483,67 @@
       <TexturausschnittBreite>153</TexturausschnittBreite>
       <TexturausschnittHöhe>101</TexturausschnittHöhe>
     </NeueVariation>
+    <NeueVariation>
+      <Name>China-Lampe (An)</Name>
+      <TexturausschnittX>3369</TexturausschnittX>
+      <TexturausschnittY>1454</TexturausschnittY>
+      <TexturausschnittBreite>137</TexturausschnittBreite>
+      <TexturausschnittHöhe>142</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>China-Lampe (Aus)</Name>
+      <TexturausschnittX>3536</TexturausschnittX>
+      <TexturausschnittY>1465</TexturausschnittY>
+      <TexturausschnittBreite>137</TexturausschnittBreite>
+      <TexturausschnittHöhe>159</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Fackelstaender</Name>
+      <TexturausschnittX>3389</TexturausschnittX>
+      <TexturausschnittY>1633</TexturausschnittY>
+      <TexturausschnittBreite>80</TexturausschnittBreite>
+      <TexturausschnittHöhe>109</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stuhl Schule (Neu + Kollision)</Name>
+      <TexturausschnittX>3835</TexturausschnittX>
+      <TexturausschnittY>1198</TexturausschnittY>
+      <TexturausschnittBreite>189</TexturausschnittBreite>
+      <TexturausschnittHöhe>229</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>47</PosX>
+        <PosY>113</PosY>
+        <Width>116</Width>
+        <Height>10</Height>
+      </NeueKollision>
+      <NeueKollision>
+        <PosX>144</PosX>
+        <PosY>85</PosY>
+        <Width>10</Width>
+        <Height>68</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stuhl Schule (Neu ohne Kollsision)</Name>
+      <TexturausschnittX>3835</TexturausschnittX>
+      <TexturausschnittY>1198</TexturausschnittY>
+      <TexturausschnittBreite>189</TexturausschnittBreite>
+      <TexturausschnittHöhe>229</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tapete Erweiterung (Neu)</Name>
+      <TexturausschnittX>3784</TexturausschnittX>
+      <TexturausschnittY>1456</TexturausschnittY>
+      <TexturausschnittBreite>116</TexturausschnittBreite>
+      <TexturausschnittHöhe>302</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tapete Unten (Neu)</Name>
+      <TexturausschnittX>3901</TexturausschnittX>
+      <TexturausschnittY>1456</TexturausschnittY>
+      <TexturausschnittBreite>116</TexturausschnittBreite>
+      <TexturausschnittHöhe>302</TexturausschnittHöhe>
+    </NeueVariation>
   </NeuesObjekt>
   <NeuesObjekt>
     <Typ>Kiste</Typ>
@@ -555,6 +616,76 @@
       <TexturausschnittY>41</TexturausschnittY>
       <TexturausschnittBreite>68</TexturausschnittBreite>
       <TexturausschnittHöhe>44</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 1</Name>
+      <TexturausschnittX>6</TexturausschnittX>
+      <TexturausschnittY>158</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 2</Name>
+      <TexturausschnittX>354</TexturausschnittX>
+      <TexturausschnittY>173</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 3</Name>
+      <TexturausschnittX>976</TexturausschnittX>
+      <TexturausschnittY>190</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 4</Name>
+      <TexturausschnittX>27</TexturausschnittX>
+      <TexturausschnittY>646</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 5</Name>
+      <TexturausschnittX>379</TexturausschnittX>
+      <TexturausschnittY>667</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 6</Name>
+      <TexturausschnittX>711</TexturausschnittX>
+      <TexturausschnittY>670</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 7</Name>
+      <TexturausschnittX>466</TexturausschnittX>
+      <TexturausschnittY>1185</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 8</Name>
+      <TexturausschnittX>844</TexturausschnittX>
+      <TexturausschnittY>1194</TexturausschnittY>
+      <TexturausschnittBreite>361</TexturausschnittBreite>
+      <TexturausschnittHöhe>479</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 9</Name>
+      <TexturausschnittX>713</TexturausschnittX>
+      <TexturausschnittY>223</TexturausschnittY>
+      <TexturausschnittBreite>259</TexturausschnittBreite>
+      <TexturausschnittHöhe>415</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund-Baum 10</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>1131</TexturausschnittY>
+      <TexturausschnittBreite>464</TexturausschnittBreite>
+      <TexturausschnittHöhe>581</TexturausschnittHöhe>
     </NeueVariation>
   </NeuesObjekt>
   <NeuesObjekt>
@@ -1151,6 +1282,27 @@
       <TexturausschnittY>638</TexturausschnittY>
       <TexturausschnittBreite>25</TexturausschnittBreite>
       <TexturausschnittHöhe>321</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Wimpelseil (Leiter kurz)</Name>
+      <TexturausschnittX>1142</TexturausschnittX>
+      <TexturausschnittY>640</TexturausschnittY>
+      <TexturausschnittBreite>56</TexturausschnittBreite>
+      <TexturausschnittHöhe>186</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Wimpelseil (Leiter lang)</Name>
+      <TexturausschnittX>1210</TexturausschnittX>
+      <TexturausschnittY>640</TexturausschnittY>
+      <TexturausschnittBreite>56</TexturausschnittBreite>
+      <TexturausschnittHöhe>327</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Halterung (T)</Name>
+      <TexturausschnittX>1152</TexturausschnittX>
+      <TexturausschnittY>940</TexturausschnittY>
+      <TexturausschnittBreite>39</TexturausschnittBreite>
+      <TexturausschnittHöhe>113</TexturausschnittHöhe>
     </NeueVariation>
   </NeuesObjekt>
   <NeuesObjekt>
@@ -1893,6 +2045,266 @@
     </NeueVariation>
   </NeuesObjekt>
   <NeuesObjekt>
+    <Typ>Tempel2</Typ>
+    <Texturpfad>Tempel2</Texturpfad>
+    <NeueVariation>
+      <Name>Bruecke Rampe Hoch</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>572</TexturausschnittBreite>
+      <TexturausschnittHöhe>413</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Brueckenteil Mitte Links</Name>
+      <TexturausschnittX>570</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>242</TexturausschnittBreite>
+      <TexturausschnittHöhe>390</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>32</PosX>
+        <PosY>194</PosY>
+        <Width>204</Width>
+        <Height>25</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Brueckenteil Mitte Rechts</Name>
+      <TexturausschnittX>812</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>242</TexturausschnittBreite>
+      <TexturausschnittHöhe>390</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>7</PosX>
+        <PosY>194</PosY>
+        <Width>204</Width>
+        <Height>25</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Bruecke Rampe Runter</Name>
+      <TexturausschnittX>1065</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>528</TexturausschnittBreite>
+      <TexturausschnittHöhe>413</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Bruecke Rampe Vordergrung Links</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>445</TexturausschnittY>
+      <TexturausschnittBreite>740</TexturausschnittBreite>
+      <TexturausschnittHöhe>391</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Bruecke Rampe Vordergrung Rechts</Name>
+      <TexturausschnittX>743</TexturausschnittX>
+      <TexturausschnittY>445</TexturausschnittY>
+      <TexturausschnittBreite>740</TexturausschnittBreite>
+      <TexturausschnittHöhe>391</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Bruecken-Stamm</Name>
+      <TexturausschnittX>1528</TexturausschnittX>
+      <TexturausschnittY>607</TexturausschnittY>
+      <TexturausschnittBreite>44</TexturausschnittBreite>
+      <TexturausschnittHöhe>119</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Steinlaterne Gross</Name>
+      <TexturausschnittX>1629</TexturausschnittX>
+      <TexturausschnittY>168</TexturausschnittY>
+      <TexturausschnittBreite>93</TexturausschnittBreite>
+      <TexturausschnittHöhe>177</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Steinlaterne Klein</Name>
+      <TexturausschnittX>1726</TexturausschnittX>
+      <TexturausschnittY>168</TexturausschnittY>
+      <TexturausschnittBreite>93</TexturausschnittBreite>
+      <TexturausschnittHöhe>177</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Schalter An</Name>
+      <TexturausschnittX>1662</TexturausschnittX>
+      <TexturausschnittY>382</TexturausschnittY>
+      <TexturausschnittBreite>87</TexturausschnittBreite>
+      <TexturausschnittHöhe>42</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Schalter Aus</Name>
+      <TexturausschnittX>1662</TexturausschnittX>
+      <TexturausschnittY>453</TexturausschnittY>
+      <TexturausschnittBreite>87</TexturausschnittBreite>
+      <TexturausschnittHöhe>42</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Kiste mit Licht</Name>
+      <TexturausschnittX>1636</TexturausschnittX>
+      <TexturausschnittY>27</TexturausschnittY>
+      <TexturausschnittBreite>90</TexturausschnittBreite>
+      <TexturausschnittHöhe>85</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>5</PosX>
+        <PosY>4</PosY>
+        <Width>80</Width>
+        <Height>77</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Kiste mit Licht Hintergrund</Name>
+      <TexturausschnittX>1740</TexturausschnittX>
+      <TexturausschnittY>27</TexturausschnittY>
+      <TexturausschnittBreite>90</TexturausschnittBreite>
+      <TexturausschnittHöhe>85</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Fackel</Name>
+      <TexturausschnittX>1616</TexturausschnittX>
+      <TexturausschnittY>544</TexturausschnittY>
+      <TexturausschnittBreite>54</TexturausschnittBreite>
+      <TexturausschnittHöhe>134</TexturausschnittHöhe>
+      <Animiert>true</Animiert>
+      <Spalten>3</Spalten>
+      <Geschwindigkeit>2</Geschwindigkeit>
+      <Wiederholen>true</Wiederholen>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Fackel (gespiegelt)</Name>
+      <TexturausschnittX>1614</TexturausschnittX>
+      <TexturausschnittY>680</TexturausschnittY>
+      <TexturausschnittBreite>54</TexturausschnittBreite>
+      <TexturausschnittHöhe>134</TexturausschnittHöhe>
+      <Animiert>true</Animiert>
+      <Spalten>3</Spalten>
+      <Geschwindigkeit>2</Geschwindigkeit>
+      <Wiederholen>true</Wiederholen>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Zimmer</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>878</TexturausschnittY>
+      <TexturausschnittBreite>635</TexturausschnittBreite>
+      <TexturausschnittHöhe>359</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>319</PosY>
+        <Width>569</Width>
+        <Height>50</Height>
+      </NeueKollision>
+      <NeueKollision>
+        <PosX>569</PosX>
+        <PosY>0</PosY>
+        <Width>39</Width>
+        <Height>359</Height>
+      </NeueKollision>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>280</PosY>
+        <Width>159</Width>
+        <Height>159</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Statue</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>1240</TexturausschnittY>
+      <TexturausschnittBreite>142</TexturausschnittBreite>
+      <TexturausschnittHöhe>244</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tor zu (Lv.4)</Name>
+      <TexturausschnittX>663</TexturausschnittX>
+      <TexturausschnittY>939</TexturausschnittY>
+      <TexturausschnittBreite>246</TexturausschnittBreite>
+      <TexturausschnittHöhe>371</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>134</PosX>
+        <PosY>0</PosY>
+        <Width>50</Width>
+        <Height>371</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tor offen (Lv.4)</Name>
+      <TexturausschnittX>942</TexturausschnittX>
+      <TexturausschnittY>939</TexturausschnittY>
+      <TexturausschnittBreite>246</TexturausschnittBreite>
+      <TexturausschnittHöhe>371</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tor offen (Lv.4) Vordergrund</Name>
+      <TexturausschnittX>1079</TexturausschnittX>
+      <TexturausschnittY>939</TexturausschnittY>
+      <TexturausschnittBreite>137</TexturausschnittBreite>
+      <TexturausschnittHöhe>371</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tor zu (Lv.2)</Name>
+      <TexturausschnittX>1231</TexturausschnittX>
+      <TexturausschnittY>939</TexturausschnittY>
+      <TexturausschnittBreite>246</TexturausschnittBreite>
+      <TexturausschnittHöhe>371</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>134</PosX>
+        <PosY>0</PosY>
+        <Width>50</Width>
+        <Height>371</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tor offen (Lv.2)</Name>
+      <TexturausschnittX>1541</TexturausschnittX>
+      <TexturausschnittY>939</TexturausschnittY>
+      <TexturausschnittBreite>246</TexturausschnittBreite>
+      <TexturausschnittHöhe>371</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tor offen (Lv.2) Vordergrund</Name>
+      <TexturausschnittX>1678</TexturausschnittX>
+      <TexturausschnittY>939</TexturausschnittY>
+      <TexturausschnittBreite>137</TexturausschnittBreite>
+      <TexturausschnittHöhe>371</TexturausschnittHöhe>
+    </NeueVariation>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <Typ>Tempel3</Typ>
+    <Texturpfad>Tempel3</Texturpfad>
+    <NeueVariation>
+      <Name>Brueckenanfang</Name>
+      <TextureausschnittX>0</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>539</TexturausschnittBreite>
+      <TexturausschnittHöhe>363</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Bruecken Mittelteil 1</Name>
+      <TextureausschnittX>0</TextureausschnittX>
+      <TextureausschnittY>530</TextureausschnittY>
+      <TexturausschnittBreite>190</TexturausschnittBreite>
+      <TexturausschnittHöhe>180</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Bruecken Mittelteil 2</Name>
+      <TextureausschnittX>180</TextureausschnittX>
+      <TextureausschnittY>530</TextureausschnittY>
+      <TexturausschnittBreite>190</TexturausschnittBreite>
+      <TexturausschnittHöhe>180</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Brueckenende</Name>
+      <TextureausschnittX>363</TextureausschnittX>
+      <TextureausschnittY>0</TextureausschnittY>
+      <TexturausschnittBreite>539</TexturausschnittBreite>
+      <TexturausschnittHöhe>363</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Fackel, aus</Name>
+      <TextureausschnittX>363</TextureausschnittX>
+      <TextureausschnittY>530</TextureausschnittY>
+      <TexturausschnittBreite>28</TexturausschnittBreite>
+      <TexturausschnittHöhe>92</TexturausschnittHöhe>
+    </NeueVariation>
+  </NeuesObjekt>
+  <NeuesObjekt>
     <Typ>Blaetter</Typ>
     <Texturpfad>Tempel</Texturpfad>
     <NeueVariation>
@@ -1953,128 +2365,7 @@
     </NeueVariation>
   </NeuesObjekt>
   <NeuesObjekt>
-    <Typ>BloeckeSchwarz</Typ>
-    <Texturpfad>bloecke_schwarz</Texturpfad>
-    <NeueVariation>
-      <Name>Block</Name>
-      <TexturausschnittX>0</TexturausschnittX>
-      <TexturausschnittY>0</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>ecke_links_oben</Name>
-      <TexturausschnittX>0</TexturausschnittX>
-      <TexturausschnittY>350</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>ecke_links_unten</Name>
-      <TexturausschnittX>0</TexturausschnittX>
-      <TexturausschnittY>700</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>ecke_rechts_unten</Name>
-      <TexturausschnittX>350</TexturausschnittX>
-      <TexturausschnittY>0</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>ecke_rechts_oben</Name>
-      <TexturausschnittX>350</TexturausschnittX>
-      <TexturausschnittY>350</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>decke</Name>
-      <TexturausschnittX>350</TexturausschnittX>
-      <TexturausschnittY>700</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>boden</Name>
-      <TexturausschnittX>700</TexturausschnittX>
-      <TexturausschnittY>0</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>wand_links</Name>
-      <TexturausschnittX>700</TexturausschnittX>
-      <TexturausschnittY>350</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-    <NeueVariation>
-      <Name>wand_rechts</Name>
-      <TexturausschnittX>700</TexturausschnittX>
-      <TexturausschnittY>700</TexturausschnittY>
-      <TexturausschnittBreite>303</TexturausschnittBreite>
-      <TexturausschnittHöhe>303</TexturausschnittHöhe>
-      <NeueKollision>
-        <PosX>0</PosX>
-        <PosY>0</PosY>
-        <Width>303</Width>
-        <Height>303</Height>
-      </NeueKollision>
-    </NeueVariation>
-  </NeuesObjekt>
-  <NeuesObjekt>
-    <Typ>Gras_schraegen_gespiegelt</Typ>
+    <Typ>Grasschraegen1</Typ>
     <Texturpfad>gras_schraegen_gespiegelt</Texturpfad>
     <NeueVariation>
       <Name>schraege_gespiegelt_00</Name>
@@ -2120,7 +2411,7 @@
     </NeueVariation>
   </NeuesObjekt>
   <NeuesObjekt>
-    <Typ>Gras_schraegen</Typ>
+    <Typ>Grasschraegen2</Typ>
     <Texturpfad>gras_schraegen</Texturpfad>
     <NeueVariation>
       <Name>schraege_00</Name>
@@ -2163,6 +2454,355 @@
       <TextureausschnittY>500</TextureausschnittY>
       <TexturausschnittBreite>423</TexturausschnittBreite>
       <TexturausschnittHöhe>157</TexturausschnittHöhe>
+    </NeueVariation>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <Typ>Fuchsbau</Typ>
+    <Texturpfad>Fuchsbau</Texturpfad>
+    <NeueVariation>
+      <Name>Hintergrund Links</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>203</TexturausschnittBreite>
+      <TexturausschnittHöhe>343</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>52</Width>
+        <Height>343</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund Mitte</Name>
+      <TexturausschnittX>204</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>1003</TexturausschnittBreite>
+      <TexturausschnittHöhe>343</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Hintergrund Rechts</Name>
+      <TexturausschnittX>1207</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>229</TexturausschnittBreite>
+      <TexturausschnittHöhe>343</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>160</PosX>
+        <PosY>0</PosY>
+        <Width>52</Width>
+        <Height>343</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Steinhaufen (Ohne Kollision)</Name>
+      <TexturausschnittX>305</TexturausschnittX>
+      <TexturausschnittY>351</TexturausschnittY>
+      <TexturausschnittBreite>428</TexturausschnittBreite>
+      <TexturausschnittHöhe>132</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Holzbrett Horizontal</Name>
+      <TexturausschnittX>290</TexturausschnittX>
+      <TexturausschnittY>524</TexturausschnittY>
+      <TexturausschnittBreite>195</TexturausschnittBreite>
+      <TexturausschnittHöhe>84</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Holzbrett Diagonal </Name>
+      <TexturausschnittX>522</TexturausschnittX>
+      <TexturausschnittY>484</TexturausschnittY>
+      <TexturausschnittBreite>167</TexturausschnittBreite>
+      <TexturausschnittHöhe>155</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Holzbrett Horizontal</Name>
+      <TexturausschnittX>1040</TexturausschnittX>
+      <TexturausschnittY>370</TexturausschnittY>
+      <TexturausschnittBreite>69</TexturausschnittBreite>
+      <TexturausschnittHöhe>420</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stalag-Nit</Name>
+      <TexturausschnittX>732</TexturausschnittX>
+      <TexturausschnittY>373</TexturausschnittY>
+      <TexturausschnittBreite>93</TexturausschnittBreite>
+      <TexturausschnittHöhe>257</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stalag-Tit</Name>
+      <TexturausschnittX>960</TexturausschnittX>
+      <TexturausschnittY>349</TexturausschnittY>
+      <TexturausschnittBreite>93</TexturausschnittBreite>
+      <TexturausschnittHöhe>257</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stalag-Saeule</Name>
+      <TexturausschnittX>848</TexturausschnittX>
+      <TexturausschnittY>348</TexturausschnittY>
+      <TexturausschnittBreite>102</TexturausschnittBreite>
+      <TexturausschnittHöhe>295</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stein 1</Name>
+      <TexturausschnittX>1148</TexturausschnittX>
+      <TexturausschnittY>365</TexturausschnittY>
+      <TexturausschnittBreite>90</TexturausschnittBreite>
+      <TexturausschnittHöhe>70</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stein 2</Name>
+      <TexturausschnittX>1256</TexturausschnittX>
+      <TexturausschnittY>395</TexturausschnittY>
+      <TexturausschnittBreite>90</TexturausschnittBreite>
+      <TexturausschnittHöhe>70</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stein 3</Name>
+      <TexturausschnittX>1127</TexturausschnittX>
+      <TexturausschnittY>464</TexturausschnittY>
+      <TexturausschnittBreite>90</TexturausschnittBreite>
+      <TexturausschnittHöhe>70</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Stein 4</Name>
+      <TexturausschnittX>1243</TexturausschnittX>
+      <TexturausschnittY>481</TexturausschnittY>
+      <TexturausschnittBreite>80</TexturausschnittBreite>
+      <TexturausschnittHöhe>37</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Laterne</Name>
+      <TexturausschnittX>1184</TexturausschnittX>
+      <TexturausschnittY>581</TexturausschnittY>
+      <TexturausschnittBreite>105</TexturausschnittBreite>
+      <TexturausschnittHöhe>50</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Loch</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>381</TexturausschnittY>
+      <TexturausschnittBreite>270</TexturausschnittBreite>
+      <TexturausschnittHöhe>247</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Boden</Name>
+      <TexturausschnittX>19</TexturausschnittX>
+      <TexturausschnittY>661</TexturausschnittY>
+      <TexturausschnittBreite>230</TexturausschnittBreite>
+      <TexturausschnittHöhe>110</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>19</PosX>
+        <PosY>8</PosY>
+        <Width>220</Width>
+        <Height>20</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Schluchtkante</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>785</TexturausschnittY>
+      <TexturausschnittBreite>225</TexturausschnittBreite>
+      <TexturausschnittHöhe>405</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>22</PosX>
+        <PosY>7</PosY>
+        <Width>187</Width>
+        <Height>390</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Schlucht-Hintergrund</Name>
+      <TexturausschnittX>376</TexturausschnittX>
+      <TexturausschnittY>754</TexturausschnittY>
+      <TexturausschnittBreite>352</TexturausschnittBreite>
+      <TexturausschnittHöhe>445</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Steinplatform</Name>
+      <TexturausschnittX>784</TexturausschnittX>
+      <TexturausschnittY>756</TexturausschnittY>
+      <TexturausschnittBreite>281</TexturausschnittBreite>
+      <TexturausschnittHöhe>81</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>10</PosX>
+        <PosY>8</PosY>
+        <Width>269</Width>
+        <Height>70</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Fuchshoehlen-Eingang</Name>
+      <TexturausschnittX>782</TexturausschnittX>
+      <TexturausschnittY>880</TexturausschnittY>
+      <TexturausschnittBreite>280</TexturausschnittBreite>
+      <TexturausschnittHöhe>151</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Fuchsbau-Boden</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>1326</TexturausschnittY>
+      <TexturausschnittBreite>1418</TexturausschnittBreite>
+      <TexturausschnittHöhe>61</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>30</PosY>
+        <Width>1418</Width>
+        <Height>30</Height>
+      </NeueKollision>
+    </NeueVariation>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <Typ>Wohnung</Typ>
+    <Texturpfad>Wohnung</Texturpfad>
+    <NeueVariation>
+      <Name>Tuer zu</Name>
+      <TexturausschnittX>4</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>133</TexturausschnittBreite>
+      <TexturausschnittHöhe>227</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Tuer offen</Name>
+      <TexturausschnittX>144</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>133</TexturausschnittBreite>
+      <TexturausschnittHöhe>227</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Flur Hintergrund Gelb</Name>
+      <TexturausschnittX>289</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>564</TexturausschnittBreite>
+      <TexturausschnittHöhe>365</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Flur Hintergrund Blau</Name>
+      <TexturausschnittX>854</TexturausschnittX>
+      <TexturausschnittY>0</TexturausschnittY>
+      <TexturausschnittBreite>564</TexturausschnittBreite>
+      <TexturausschnittHöhe>365</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Flur Hintergrund Gruen</Name>
+      <TexturausschnittX>289</TexturausschnittX>
+      <TexturausschnittY>366</TexturausschnittY>
+      <TexturausschnittBreite>564</TexturausschnittBreite>
+      <TexturausschnittHöhe>365</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Flur Hintergrund Rot</Name>
+      <TexturausschnittX>854</TexturausschnittX>
+      <TexturausschnittY>366</TexturausschnittY>
+      <TexturausschnittBreite>564</TexturausschnittBreite>
+      <TexturausschnittHöhe>365</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Treppe</Name>
+      <TexturausschnittX>494</TexturausschnittX>
+      <TexturausschnittY>732</TexturausschnittY>
+      <TexturausschnittBreite>359</TexturausschnittBreite>
+      <TexturausschnittHöhe>365</TexturausschnittHöhe>
+      <NeueKollision>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Treppengelaender</Name>
+      <TexturausschnittX>57</TexturausschnittX>
+      <TexturausschnittY>732</TexturausschnittY>
+      <TexturausschnittBreite>353</TexturausschnittBreite>
+      <TexturausschnittHöhe>457</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Balken Senkrecht</Name>
+      <TexturausschnittX>887</TexturausschnittX>
+      <TexturausschnittY>732</TexturausschnittY>
+      <TexturausschnittBreite>42</TexturausschnittBreite>
+      <TexturausschnittHöhe>457</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>42</Width>
+        <Height>457</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Balken Waagrecht</Name>
+      <TexturausschnittX>930</TexturausschnittX>
+      <TexturausschnittY>732</TexturausschnittY>
+      <TexturausschnittBreite>457</TexturausschnittBreite>
+      <TexturausschnittHöhe>42</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>457</Width>
+        <Height>42</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Balken Senkrecht Durchgang</Name>
+      <TexturausschnittX>1296</TexturausschnittX>
+      <TexturausschnittY>732</TexturausschnittY>
+      <TexturausschnittBreite>42</TexturausschnittBreite>
+      <TexturausschnittHöhe>457</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>42</Width>
+        <Height>99</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Wand-Lampe</Name>
+      <TexturausschnittX>37</TexturausschnittX>
+      <TexturausschnittY>562</TexturausschnittY>
+      <TexturausschnittBreite>298</TexturausschnittBreite>
+      <TexturausschnittHöhe>169</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Dachboden Boden-Bretter</Name>
+      <TexturausschnittX>81</TexturausschnittX>
+      <TexturausschnittY>544</TexturausschnittY>
+      <TexturausschnittBreite>152</TexturausschnittBreite>
+      <TexturausschnittHöhe>10</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>152</Width>
+        <Height>10</Height>
+      </NeueKollision>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Gemaelde Gross</Name>
+      <TexturausschnittX>45</TexturausschnittX>
+      <TexturausschnittY>235</TexturausschnittY>
+      <TexturausschnittBreite>128</TexturausschnittBreite>
+      <TexturausschnittHöhe>138</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Gemaelde Mittel</Name>
+      <TexturausschnittX>171</TexturausschnittX>
+      <TexturausschnittY>294</TexturausschnittY>
+      <TexturausschnittBreite>104</TexturausschnittBreite>
+      <TexturausschnittHöhe>116</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Gemaelde Klein</Name>
+      <TexturausschnittX>0</TexturausschnittX>
+      <TexturausschnittY>372</TexturausschnittY>
+      <TexturausschnittBreite>80</TexturausschnittBreite>
+      <TexturausschnittHöhe>91</TexturausschnittHöhe>
+    </NeueVariation>
+    <NeueVariation>
+      <Name>Dachbodenleiter</Name>
+      <TexturausschnittX>1375</TexturausschnittX>
+      <TexturausschnittY>754</TexturausschnittY>
+      <TexturausschnittBreite>12</TexturausschnittBreite>
+      <TexturausschnittHöhe>319</TexturausschnittHöhe>
+      <NeueKollision>
+        <PosX>0</PosX>
+        <PosY>0</PosY>
+        <Width>12</Width>
+        <Height>319</Height>
+      </NeueKollision>
     </NeueVariation>
   </NeuesObjekt>
 </Objektdaten>

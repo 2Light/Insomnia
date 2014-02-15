@@ -174,11 +174,7 @@
     <Content Include="Enemys.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\..\..\..\Dropbox\Dying Hope %281%29\Objects.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <SubType>Designer</SubType>
-      <Link>Objects.xml</Link>
-    </Content>
+    <Content Include="Objects.xml" />
     <Content Include="Settings.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <SubType>Designer</SubType>
