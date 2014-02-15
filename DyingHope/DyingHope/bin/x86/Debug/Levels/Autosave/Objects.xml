@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <NeuesObjekt>
+    <PositionX>580</PositionX>
+    <PositionY>620</PositionY>
+    <Ebene>5</Ebene>
+    <Typ>Kiste</Typ>
+    <Variante>0</Variante>
+  </NeuesObjekt>
+  <NeuesObjekt>
+    <PositionX>455</PositionX>
+    <PositionY>836</PositionY>
+    <Ebene>5</Ebene>
+    <Typ>Kiste</Typ>
+    <Statisch>False</Statisch>
+    <Variante>0</Variante>
+  </NeuesObjekt>
+</Objects>

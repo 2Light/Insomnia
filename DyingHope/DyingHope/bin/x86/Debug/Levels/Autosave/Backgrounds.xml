@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Backgrounds>
+  <NewBackground>
+    <Textur>Seamless Hinterste Haeusereihe</Textur>
+    <ScrollX>60</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>0</VersatzY>
+    <Startposition>1</Startposition>
+    <Endposition>5000</Endposition>
+  </NewBackground>
+  <NewBackground>
+    <Textur>Seamless Mittlere Haeusereihe</Textur>
+    <ScrollX>70</ScrollX>
+    <ScrollY>0</ScrollY>
+    <Transparenz>100</Transparenz>
+    <VersatzY>10</VersatzY>
+    <Startposition>1000</Startposition>
+    <Endposition>2000</Endposition>
+  </NewBackground>
+</Backgrounds>
