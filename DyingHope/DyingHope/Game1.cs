@@ -424,6 +424,8 @@ namespace DyingHope
             //Shader--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             if (DepressionHandler.isSet(DepressionState.GrayScal))  applyShader(spriteBatch,SpielGesamt,Contents.GrayScale) ;
             if (DepressionHandler.isSet(DepressionState.InvertScreen))  applyShader(spriteBatch, SpielGesamt, Contents.Invert);
+            if (DepressionHandler.isSet(DepressionState.InvertHoriScreen)) applyShader(spriteBatch, SpielGesamt, Contents.InvertHori);
+
 
             noiseTime = gameTime.TotalGameTime.Milliseconds + 1;
             //Contents.FOV.Parameters["OuterVig"].SetValue(1.5+0.3*Math.Sin(noiseTime + 5.0*Math.Cos(noiseTime*3.0)));
