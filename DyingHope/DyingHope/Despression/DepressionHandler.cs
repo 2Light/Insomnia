@@ -15,7 +15,8 @@ namespace DyingHope
         InvertScreen = (1 << 3),
         ModifyWorld = (1 << 4),
         ReduceFOV = (1 << 5),
-        GrayScal = (1 << 6)
+        GrayScal = (1 << 6),
+        InvertHoriScreen =(1 << 7),
     }
 
     class DepressionHandler : IdebugObjekt
