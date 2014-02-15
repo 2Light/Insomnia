@@ -2,51 +2,16 @@
 <Enemys>
   <NeuerGegner>
     <PositionX>6300</PositionX>
-    <PositionY>1025</PositionY>
+    <PositionY>714</PositionY>
     <Typ>Wolf</Typ>
     <Skalierung>100</Skalierung>
     <Blickrichtung>Links</Blickrichtung>
   </NeuerGegner>
   <NeuerGegner>
-    <PositionX>2927</PositionX>
-    <PositionY>1033</PositionY>
-    <Typ>Greif</Typ>
+    <PositionX>1224</PositionX>
+    <PositionY>118</PositionY>
+    <Typ>Wolf</Typ>
     <Skalierung>100</Skalierung>
-    <Blickrichtung>Links</Blickrichtung>
-  </NeuerGegner>
-  <NeuerGegner>
-    <PositionX>2885</PositionX>
-    <PositionY>1035</PositionY>
-    <Typ>Greif</Typ>
-    <Skalierung>100</Skalierung>
-    <Blickrichtung>Links</Blickrichtung>
-  </NeuerGegner>
-  <NeuerGegner>
-    <PositionX>2942</PositionX>
-    <PositionY>1034</PositionY>
-    <Typ>Greif</Typ>
-    <Skalierung>100</Skalierung>
-    <Blickrichtung>Links</Blickrichtung>
-  </NeuerGegner>
-  <NeuerGegner>
-    <PositionX>2944</PositionX>
-    <PositionY>1032</PositionY>
-    <Typ>Greif</Typ>
-    <Skalierung>100</Skalierung>
-    <Blickrichtung>Links</Blickrichtung>
-  </NeuerGegner>
-  <NeuerGegner>
-    <PositionX>3016</PositionX>
-    <PositionY>727</PositionY>
-    <Typ>Greif</Typ>
-    <Skalierung>100</Skalierung>
-    <Blickrichtung>Links</Blickrichtung>
-  </NeuerGegner>
-  <NeuerGegner>
-    <PositionX>8605</PositionX>
-    <PositionY>754</PositionY>
-    <Typ>Messerkreatur</Typ>
-    <Skalierung>100</Skalierung>
-    <Blickrichtung>Links</Blickrichtung>
+    <Blickrichtung>Rechts</Blickrichtung>
   </NeuerGegner>
 </Enemys>

@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Asphalt.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Asphalt.xnb</Output>
+      <Time>2014-02-15T16:48:52.1150958+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Baum1_Set.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum1_Set.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum1_Set.xnb</Output>
+      <Time>2014-02-15T16:48:52.2011007+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Baum2_Set.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum2_Set.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum2_Set.xnb</Output>
+      <Time>2014-02-15T16:48:52.2051009+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Baum3_Set.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum3_Set.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum3_Set.xnb</Output>
+      <Time>2014-02-15T16:48:52.2141014+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\ground.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\ground.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\ground.xnb</Output>
+      <Time>2014-02-15T16:48:52.2401029+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Seamless Backround.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Seamless Backround.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Seamless Backround.xnb</Output>
+      <Time>2014-02-15T16:48:52.2361027+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\BG1.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BG1.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BG1.xnb</Output>
+      <Time>2014-02-15T16:48:52.1150958+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\BG2.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BG2.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BG2.xnb</Output>
+      <Time>2014-02-15T16:48:52.1160958+01:00</Time>
     </Item>
     <Item>
       <Source>Player\Idle.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Idle.xnb</Output>
-      <Time>2014-02-10T12:35:22+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Idle.xnb</Output>
+      <Time>2014-02-15T16:48:53.6561839+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\BG3.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BG3.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BG3.xnb</Output>
+      <Time>2014-02-15T16:48:52.1160958+01:00</Time>
     </Item>
     <Item>
       <Source>Player\Walk.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Walk.xnb</Output>
-      <Time>2014-02-10T12:36:08+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Walk.xnb</Output>
+      <Time>2014-02-15T16:48:53.6661845+01:00</Time>
     </Item>
     <Item>
       <Source>Player\Run.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Run.xnb</Output>
-      <Time>2014-02-10T12:35:21+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Run.xnb</Output>
+      <Time>2014-02-15T16:48:53.6611842+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Testobjekt.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Testobjekt.xnb</Output>
-      <Time>2014-02-10T12:35:20+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Testobjekt.xnb</Output>
+      <Time>2014-02-15T16:48:53.535177+01:00</Time>
     </Item>
     <Item>
       <Source>Teststuff\Block.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Teststuff\Block.xnb</Output>
-      <Time>2014-02-10T12:35:22+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Teststuff\Block.xnb</Output>
+      <Time>2014-02-15T16:48:53.745189+01:00</Time>
     </Item>
     <Item>
       <Source>UI\Window.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\UI\Window.xnb</Output>
-      <Time>2014-02-10T12:36:14+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\UI\Window.xnb</Output>
+      <Time>2014-02-15T16:48:53.9331998+01:00</Time>
     </Item>
     <Item>
       <Source>UI\GUIParts.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\UI\GUIParts.xnb</Output>
-      <Time>2014-02-10T12:36:11+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\UI\GUIParts.xnb</Output>
+      <Time>2014-02-15T16:48:53.7471891+01:00</Time>
     </Item>
     <Item>
       <Source>UI\Bar.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\UI\Bar.xnb</Output>
-      <Time>2014-02-10T12:36:11+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\UI\Bar.xnb</Output>
+      <Time>2014-02-15T16:48:53.745189+01:00</Time>
     </Item>
     <Item>
       <Source>Effects\Masks\Mask.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Masks\Mask.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Masks\Mask.xnb</Output>
+      <Time>2014-02-15T16:48:52.905141+01:00</Time>
     </Item>
     <Item>
       <Source>Player\kido.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\kido.xnb</Output>
-      <Time>2014-02-10T12:35:22+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\kido.xnb</Output>
+      <Time>2014-02-15T16:48:53.6661845+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\box.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\box.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\box.xnb</Output>
+      <Time>2014-02-15T16:48:53.6471834+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\Nebel.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Nebel.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Nebel.xnb</Output>
+      <Time>2014-02-15T16:48:53.5641787+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\Nebel2.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Nebel2.xnb</Output>
-      <Time>2014-02-10T12:35:30+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Nebel2.xnb</Output>
+      <Time>2014-02-15T16:48:53.5661788+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\p1.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\p1.xnb</Output>
-      <Time>2014-02-10T12:35:54+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\p1.xnb</Output>
+      <Time>2014-02-15T16:48:53.6471834+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\p2.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\p2.xnb</Output>
-      <Time>2014-02-10T12:35:20+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\p2.xnb</Output>
+      <Time>2014-02-15T16:48:53.6481835+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\p3.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\p3.xnb</Output>
-      <Time>2014-02-10T12:35:54+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\p3.xnb</Output>
+      <Time>2014-02-15T16:48:53.6481835+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\particel.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\particel.xnb</Output>
-      <Time>2014-02-10T12:35:54+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\particel.xnb</Output>
+      <Time>2014-02-15T16:48:53.6481835+01:00</Time>
     </Item>
     <Item>
       <Source>UI\Maus.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\UI\Maus.xnb</Output>
-      <Time>2014-02-10T12:36:12+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\UI\Maus.xnb</Output>
+      <Time>2014-02-15T16:48:53.7481892+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Menue.jpg</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Menue.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Menue.xnb</Output>
+      <Time>2014-02-15T16:48:52.2261021+01:00</Time>
     </Item>
     <Item>
       <Source>UI\MenueButtons.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\UI\MenueButtons.xnb</Output>
-      <Time>2014-02-10T12:35:22+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\UI\MenueButtons.xnb</Output>
+      <Time>2014-02-15T16:48:53.9321997+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Kiste.png</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Kiste.xnb</Output>
-      <Time>2014-02-10T12:35:08+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Kiste.xnb</Output>
+      <Time>2014-02-15T16:48:53.3841684+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Stadtdekoration.png</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Stadtdekoration.xnb</Output>
-      <Time>2014-02-14T21:03:15.0922407+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Stadtdekoration.xnb</Output>
+      <Time>2014-02-15T16:48:53.4871743+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\Regentropfen.png</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Regentropfen.xnb</Output>
-      <Time>2014-02-10T12:35:20+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Regentropfen.xnb</Output>
+      <Time>2014-02-15T16:48:53.5661788+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\Regentropfenschräg.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Regentropfenschräg.xnb</Output>
-      <Time>2014-02-10T12:35:32+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Regentropfenschräg.xnb</Output>
+      <Time>2014-02-15T16:48:53.6471834+01:00</Time>
     </Item>
     <Item>
       <Source>Partikel\Regentropfenschräg2.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Regentropfenschräg2.xnb</Output>
-      <Time>2014-02-10T12:35:32+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Partikel\Regentropfenschräg2.xnb</Output>
+      <Time>2014-02-15T16:48:53.6471834+01:00</Time>
     </Item>
     <Item>
       <Source>UI\EventWindow.png</Source>
@@ -313,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\UI\EventWindow.xnb</Output>
-      <Time>2014-02-10T12:35:25+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\UI\EventWindow.xnb</Output>
+      <Time>2014-02-15T16:48:53.7471891+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Schatten\Idle.png</Source>
@@ -322,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Schatten\Idle.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Schatten\Idle.xnb</Output>
+      <Time>2014-02-15T16:48:52.9871457+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Greif\Idle.png</Source>
@@ -331,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Greif\Idle.xnb</Output>
-      <Time>2014-02-10T12:35:24+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Greif\Idle.xnb</Output>
+      <Time>2014-02-15T16:48:52.9481434+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Messerkreatur\Idle.png</Source>
@@ -340,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Messerkreatur\Idle.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Messerkreatur\Idle.xnb</Output>
+      <Time>2014-02-15T16:48:52.9641443+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Wolf\Idle.png</Source>
@@ -349,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Wolf\Idle.xnb</Output>
-      <Time>2014-02-10T12:35:30+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Wolf\Idle.xnb</Output>
+      <Time>2014-02-15T16:48:53.0011465+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Seamless Hinterste Haeusereihe.png</Source>
@@ -358,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Seamless Hinterste Haeusereihe.xnb</Output>
-      <Time>2014-02-10T12:35:06+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Seamless Hinterste Haeusereihe.xnb</Output>
+      <Time>2014-02-15T16:48:52.2381028+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Seamless Mittlere Haeusereihe.png</Source>
@@ -367,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Seamless Mittlere Haeusereihe.xnb</Output>
-      <Time>2014-02-10T12:35:06+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Seamless Mittlere Haeusereihe.xnb</Output>
+      <Time>2014-02-15T16:48:52.2391029+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Gebaeude.png</Source>
@@ -376,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Gebaeude.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Gebaeude.xnb</Output>
+      <Time>2014-02-15T16:48:53.3651673+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Vegetation.png</Source>
@@ -385,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Vegetation.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Vegetation.xnb</Output>
+      <Time>2014-02-15T16:48:53.5361771+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Plattformen.png</Source>
@@ -394,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Plattformen.xnb</Output>
-      <Time>2014-02-10T12:35:10+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Plattformen.xnb</Output>
+      <Time>2014-02-15T16:48:53.4671731+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Moebel.png</Source>
@@ -403,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Moebel.xnb</Output>
-      <Time>2014-02-10T12:35:20+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Moebel.xnb</Output>
+      <Time>2014-02-15T16:48:53.4621728+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Schule.png</Source>
@@ -412,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Schule.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Schule.xnb</Output>
+      <Time>2014-02-15T16:48:53.4701733+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Wolf\Attack.png</Source>
@@ -421,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Wolf\Attack.xnb</Output>
-      <Time>2014-02-10T12:35:31+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Wolf\Attack.xnb</Output>
+      <Time>2014-02-15T16:48:52.9941461+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Schatten\Attack.png</Source>
@@ -430,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Schatten\Attack.xnb</Output>
-      <Time>2014-02-10T12:35:31+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Schatten\Attack.xnb</Output>
+      <Time>2014-02-15T16:48:52.975145+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Messerkreatur\Attack.png</Source>
@@ -439,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Messerkreatur\Attack.xnb</Output>
-      <Time>2014-02-10T12:35:24+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Messerkreatur\Attack.xnb</Output>
+      <Time>2014-02-15T16:48:52.9561439+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Greif\Attack.png</Source>
@@ -448,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Greif\Attack.xnb</Output>
-      <Time>2014-02-10T12:35:22+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Greif\Attack.xnb</Output>
+      <Time>2014-02-15T16:48:52.9211419+01:00</Time>
     </Item>
     <Item>
       <Source>Enemys\Greif\Attack2.png</Source>
@@ -457,8 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Greif\Attack2.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Enemys\Greif\Attack2.xnb</Output>
+      <Time>2014-02-15T16:48:52.9341426+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Gras.png</Source>
@@ -466,8 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Gras.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Gras.xnb</Output>
+      <Time>2014-02-15T16:48:53.3831683+01:00</Time>
     </Item>
     <Item>
       <Source>Items\Baer.png</Source>
@@ -475,8 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Baer.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Baer.xnb</Output>
+      <Time>2014-02-15T16:48:53.0011465+01:00</Time>
     </Item>
     <Item>
       <Source>Items\Bilderbuch.png</Source>
@@ -484,8 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Bilderbuch.xnb</Output>
-      <Time>2014-02-10T12:35:08+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Bilderbuch.xnb</Output>
+      <Time>2014-02-15T16:48:53.0021465+01:00</Time>
     </Item>
     <Item>
       <Source>Items\Kamera.png</Source>
@@ -493,8 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Kamera.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Kamera.xnb</Output>
+      <Time>2014-02-15T16:48:53.0021465+01:00</Time>
     </Item>
     <Item>
       <Source>Items\Schultuete.png</Source>
@@ -502,8 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Schultuete.xnb</Output>
-      <Time>2014-02-10T12:35:10+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Schultuete.xnb</Output>
+      <Time>2014-02-15T16:48:53.0751507+01:00</Time>
     </Item>
     <Item>
       <Source>Items\Schluessel.png</Source>
@@ -511,8 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Schluessel.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Items\Schluessel.xnb</Output>
+      <Time>2014-02-15T16:48:53.0021465+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Bausteine.png</Source>
@@ -520,8 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Bausteine.xnb</Output>
-      <Time>2014-02-14T21:04:00.9178617+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Bausteine.xnb</Output>
+      <Time>2014-02-15T16:48:53.3511665+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Funpark.png</Source>
@@ -529,8 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Funpark.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Funpark.xnb</Output>
+      <Time>2014-02-15T16:48:53.3621671+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Wiese.png</Source>
@@ -538,8 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Wiese.xnb</Output>
-      <Time>2014-02-10T12:35:22+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Wiese.xnb</Output>
+      <Time>2014-02-15T16:48:53.5511779+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\Grasweg.png</Source>
@@ -547,8 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Grasweg.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Grasweg.xnb</Output>
+      <Time>2014-02-15T16:48:52.2171016+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Schlucht.png</Source>
@@ -556,8 +556,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Schlucht.xnb</Output>
-      <Time>2014-02-10T12:35:11+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Schlucht.xnb</Output>
+      <Time>2014-02-15T16:48:53.4681732+01:00</Time>
     </Item>
     <Item>
       <Source>Player\Jump.png</Source>
@@ -565,8 +565,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Jump.xnb</Output>
-      <Time>2014-02-10T12:36:08+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Jump.xnb</Output>
+      <Time>2014-02-15T16:48:53.658184+01:00</Time>
     </Item>
     <Item>
       <Source>Player\Climb.png</Source>
@@ -574,8 +574,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Climb.xnb</Output>
-      <Time>2014-02-10T12:35:20+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Climb.xnb</Output>
+      <Time>2014-02-15T16:48:53.6501836+01:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\BodenSchule.png</Source>
@@ -583,8 +583,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BodenSchule.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\BodenSchule.xnb</Output>
+      <Time>2014-02-15T16:48:52.2161016+01:00</Time>
     </Item>
     <Item>
       <Source>Player\Climb2.png</Source>
@@ -592,8 +592,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Climb2.xnb</Output>
-      <Time>2014-02-10T12:36:06+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Climb2.xnb</Output>
+      <Time>2014-02-15T16:48:53.6541838+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Tempel.png</Source>
@@ -601,8 +601,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Tempel.xnb</Output>
-      <Time>2014-02-10T12:35:20+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Tempel.xnb</Output>
+      <Time>2014-02-15T16:48:53.5191761+01:00</Time>
     </Item>
     <Item>
       <Source>Player\Lever.png</Source>
@@ -610,8 +610,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Lever.xnb</Output>
-      <Time>2014-02-10T12:36:08+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Lever.xnb</Output>
+      <Time>2014-02-15T16:48:53.6601842+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Schalter.png</Source>
@@ -619,8 +619,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Schalter.xnb</Output>
-      <Time>2014-02-10T12:35:20+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Schalter.xnb</Output>
+      <Time>2014-02-15T16:48:53.4681732+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\gras_schraegen.png</Source>
@@ -628,8 +628,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\gras_schraegen.xnb</Output>
-      <Time>2014-02-15T12:12:21.9711437+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\gras_schraegen.xnb</Output>
+      <Time>2014-02-15T16:48:53.5561782+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\gras_schraegen_gespiegelt.png</Source>
@@ -637,8 +637,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\gras_schraegen_gespiegelt.xnb</Output>
-      <Time>2014-02-15T12:12:21.9671434+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\gras_schraegen_gespiegelt.xnb</Output>
+      <Time>2014-02-15T16:48:53.5621786+01:00</Time>
     </Item>
     <Item>
       <Source>Objects\Tempel2.png</Source>
@@ -646,8 +646,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Tempel2.xnb</Output>
-      <Time>2014-02-15T12:14:27.5363256+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Tempel2.xnb</Output>
+      <Time>2014-02-15T16:48:53.534177+01:00</Time>
     </Item>
     <Item>
       <Source>Meiryo8.spritefont</Source>
@@ -655,8 +655,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Meiryo8.xnb</Output>
-      <Time>2014-02-10T12:35:02+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Meiryo8.xnb</Output>
+      <Time>2014-02-15T16:48:53.0761508+01:00</Time>
     </Item>
     <Item>
       <Source>Font.spritefont</Source>
@@ -664,8 +664,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Font.xnb</Output>
-      <Time>2014-02-10T12:35:00+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-02-15T16:48:53.0011465+01:00</Time>
     </Item>
     <Item>
       <Source>Effects\Shader\GrayScale.fx</Source>
@@ -673,8 +673,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\GrayScale.xnb</Output>
-      <Time>2014-02-11T13:31:17+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\GrayScale.xnb</Output>
+      <Time>2014-02-15T16:48:52.906141+01:00</Time>
     </Item>
     <Item>
       <Source>Effects\Shader\Invert.fx</Source>
@@ -682,8 +682,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\Invert.xnb</Output>
-      <Time>2014-02-11T13:31:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\Invert.xnb</Output>
+      <Time>2014-02-15T16:48:52.906141+01:00</Time>
     </Item>
     <Item>
       <Source>Effects\Shader\FOV.fx</Source>
@@ -691,8 +691,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\FOV.xnb</Output>
-      <Time>2014-02-11T14:14:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\FOV.xnb</Output>
+      <Time>2014-02-15T16:48:52.905141+01:00</Time>
     </Item>
     <Item>
       <Source>Effects\Shader\Glitchy.fx</Source>
@@ -700,8 +700,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\Glitchy.xnb</Output>
-      <Time>2014-02-11T13:31:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\Glitchy.xnb</Output>
+      <Time>2014-02-15T16:48:52.906141+01:00</Time>
     </Item>
     <Item>
       <Source>Effects\Shader\Noise.fx</Source>
@@ -709,8 +709,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\Noise.xnb</Output>
-      <Time>2014-02-11T13:31:17+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\Noise.xnb</Output>
+      <Time>2014-02-15T16:48:52.906141+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\Pressure.mp3</Source>
@@ -718,8 +718,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\Pressure.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\Pressure.xnb</Output>
+      <Time>2014-02-15T16:48:53.3151644+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-1(Anfang).mp3</Source>
@@ -727,8 +727,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-1(Anfang).xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-1(Anfang).xnb</Output>
+      <Time>2014-02-15T16:48:53.1091526+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-2(Stadt) Anfang.mp3</Source>
@@ -736,8 +736,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-2(Stadt) Anfang.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-2(Stadt) Anfang.xnb</Output>
+      <Time>2014-02-15T16:48:53.1171531+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-2(Stadt) Ende.mp3</Source>
@@ -745,8 +745,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-2(Stadt) Ende.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-2(Stadt) Ende.xnb</Output>
+      <Time>2014-02-15T16:48:53.1971577+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-2(Stadt) Loop.mp3</Source>
@@ -754,8 +754,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-2(Stadt) Loop.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-2(Stadt) Loop.xnb</Output>
+      <Time>2014-02-15T16:48:53.2051581+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-3(Park) Anfang.mp3</Source>
@@ -763,8 +763,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-3(Park) Anfang.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-3(Park) Anfang.xnb</Output>
+      <Time>2014-02-15T16:48:53.2141586+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-3(Park) Ende.mp3</Source>
@@ -772,8 +772,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-3(Park) Ende.xnb</Output>
-      <Time>2014-02-10T12:35:18+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-3(Park) Ende.xnb</Output>
+      <Time>2014-02-15T16:48:53.2251593+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-3(Park) Loop.mp3</Source>
@@ -781,8 +781,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-3(Park) Loop.xnb</Output>
-      <Time>2014-02-10T12:35:04+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-3(Park) Loop.xnb</Output>
+      <Time>2014-02-15T16:48:53.2331597+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-4(Schule) Anfang.mp3</Source>
@@ -790,8 +790,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-4(Schule) Anfang.xnb</Output>
-      <Time>2014-02-10T12:35:07+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-4(Schule) Anfang.xnb</Output>
+      <Time>2014-02-15T16:48:53.2421603+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-4(Schule) Loop.mp3</Source>
@@ -799,8 +799,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-4(Schule) Loop.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-4(Schule) Loop.xnb</Output>
+      <Time>2014-02-15T16:48:53.2501607+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-5(Monster) Anfang.mp3</Source>
@@ -808,8 +808,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-5(Monster) Anfang.xnb</Output>
-      <Time>2014-02-10T12:35:07+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-5(Monster) Anfang.xnb</Output>
+      <Time>2014-02-15T16:48:53.2601613+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-5(Monster) Loop.mp3</Source>
@@ -817,8 +817,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-5(Monster) Loop.xnb</Output>
-      <Time>2014-02-10T12:35:19+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-5(Monster) Loop.xnb</Output>
+      <Time>2014-02-15T16:48:53.2691618+01:00</Time>
     </Item>
     <Item>
       <Source>Musik\1-6(Ende).mp3</Source>
@@ -826,8 +826,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-6(Ende).xnb</Output>
-      <Time>2014-02-10T12:35:09+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Musik\1-6(Ende).xnb</Output>
+      <Time>2014-02-15T16:48:53.2801624+01:00</Time>
     </Item>
     <Item>
       <Source>Sound Effects\light.wav</Source>
@@ -835,8 +835,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Sound Effects\light.xnb</Output>
-      <Time>2014-02-10T12:36:10+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Sound Effects\light.xnb</Output>
+      <Time>2014-02-15T16:48:53.6691847+01:00</Time>
     </Item>
     <Item>
       <Source>Sound Effects\rain.wav</Source>
@@ -844,8 +844,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\Sound Effects\rain.xnb</Output>
-      <Time>2014-02-10T12:36:11+01:00</Time>
+      <Output>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Sound Effects\rain.xnb</Output>
+      <Time>2014-02-15T16:48:53.7431889+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -853,39 +853,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHopeContent\</RootDirectory>
-      <LoggerRootDirectory>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\</LoggerRootDirectory>
-      <IntermediateDirectory>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHopeContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHopeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHopeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-03-11T07:17:23.3521351+01:00</Value>
+        <Value>2013-10-15T15:39:35.2711469+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

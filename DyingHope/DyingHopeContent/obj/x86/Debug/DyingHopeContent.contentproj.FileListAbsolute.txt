@@ -129,3 +129,4 @@ C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 2\Dyin
 C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 4\DyingHope\DyingHopeContent\obj\x86\Debug\DyingHopeContent.contentprojResolveAssemblyReference.cache
 C:\Users\Andre\Desktop\Insomnia\13.02.2014 - 5\DyingHope\DyingHopeContent\obj\x86\Debug\ResolveAssemblyReference.cache
 F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHopeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHopeContent\obj\x86\Debug\DyingHopeContent.contentprojResolveAssemblyReference.cache
