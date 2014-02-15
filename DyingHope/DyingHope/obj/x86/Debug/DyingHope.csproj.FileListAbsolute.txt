@@ -8488,6 +8488,7 @@ C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 4\Dyin
 C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 4\DyingHope\DyingHope\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 4\DyingHope\DyingHope\obj\x86\Debug\DyingHope.exe
 C:\Users\Andre.Moos@Games-academy.de\Desktop\Dying Hope Kram\13.02.2014 - 4\DyingHope\DyingHope\obj\x86\Debug\DyingHope.pdb
+<<<<<<< HEAD
 C:\Users\Andre\Desktop\Insomnia\13.02.2014 - 5\DyingHope\DyingHope\bin\x86\Debug\Enemys.xml
 C:\Users\Andre\Desktop\Insomnia\13.02.2014 - 5\DyingHope\DyingHope\bin\x86\Debug\Objects.xml
 C:\Users\Andre\Desktop\Insomnia\13.02.2014 - 5\DyingHope\DyingHope\bin\x86\Debug\Settings.xml
@@ -8703,6 +8704,18 @@ F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\obj\x86\Debug\Dy
 F:\Copy\Copy\Insomnia\Public\15.02.2014 - 2\DyingHope\DyingHope\obj\x86\Debug\DyingHope.pdb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Enemys.xml
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Settings.xml
+=======
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Enemys.xml
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Settings.xml
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\DebugView XNA.pdb
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\DebugView XNA.xml
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\FarseerPhysics XNA.xml
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\DyingHope.csprojResolveAssemblyReference.cache
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\DyingHope.exe
+C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\DyingHope.pdb
+>>>>>>> origin/Andre
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Asphalt.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum1_Set.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Backgrounds\Baum2_Set.xnb
@@ -8772,9 +8785,12 @@ C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Cont
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Tempel.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Player\Lever.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Schalter.xnb
+<<<<<<< HEAD
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\gras_schraegen.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\gras_schraegen_gespiegelt.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Objects\Tempel2.xnb
+=======
+>>>>>>> origin/Andre
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Meiryo8.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Font.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Effects\Shader\GrayScale.xnb
@@ -8799,6 +8815,7 @@ C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Cont
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\Content\Sound Effects\rain.xnb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\DyingHope.exe
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\DyingHope.pdb
+<<<<<<< HEAD
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\DebugView XNA.pdb
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\DebugView XNA.xml
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\bin\x86\Debug\FarseerPhysics XNA.pdb
@@ -8807,3 +8824,5 @@ C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\Dyin
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\DyingHope.exe
 C:\Users\2Light\Documents\GitHub\Insomnia\DyingHope\DyingHope\obj\x86\Debug\DyingHope.pdb
+=======
+>>>>>>> origin/Andre

@@ -94,6 +94,7 @@ namespace DyingHope
         //Shader---------------------------------------------------------------------------------------------
         public Effect GrayScale;
         public Effect Invert;
+        public Effect InvertHori;
         public Effect FOV;
         public Effect Noise;
         public Effect Glitchy;
@@ -184,6 +185,7 @@ namespace DyingHope
             //Shader---------------------------------------------------------------------------------------------
             GrayScale = contentmanager.Load<Effect>(@"Effects\Shader\GrayScale");
             Invert = contentmanager.Load<Effect>(@"Effects\Shader\Invert");
+            Invert = contentmanager.Load<Effect>(@"Effects\Shader\InvertHori");
             FOV = contentmanager.Load<Effect>(@"Effects\Shader\FOV");
             Noise = contentmanager.Load<Effect>(@"Effects\Shader\Noise");
             Glitchy = contentmanager.Load<Effect>(@"Effects\Shader\Glitchy");

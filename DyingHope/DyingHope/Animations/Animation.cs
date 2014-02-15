@@ -15,19 +15,21 @@ namespace DyingHope
         public float Zeit;
         public int Richtung;
         public int Spalte;
-        public int Breite;
-        public int Höhe;
+        public Rectangle Frame;
+        //public int Breite;
+        //public int Höhe;
         public float Skalierung;
         public float Geschwindigkeit;
         public int AktuelleSpalte;
 
-        public Animation(Texture2D texture, bool wiederholen, int Spalte, int Breite, int Höhe, float skalierung, int Geschwindigkeit)
+        public Animation(Texture2D texture, bool wiederholen, int Spalte, /*int Breite, int Höhe,*/Rectangle frame, float skalierung, int Geschwindigkeit)
         {
             this.Texture = texture;
             this.Wiederholen = wiederholen;
             this.Spalte = Spalte;
-            this.Breite = Breite;
-            this.Höhe = Höhe;
+            this.Frame = frame;
+            //this.Breite = Breite;
+            //this.Höhe = Höhe;
             this.Skalierung = skalierung;
             this.Geschwindigkeit = (float)1 / Geschwindigkeit;
 
@@ -59,11 +61,11 @@ namespace DyingHope
         {
             spriteBatch.Draw(
                 Texture,
-                new Rectangle((int)position.X, (int)position.Y, (int)(Skalierung * Breite), (int)(Skalierung * Höhe)),
+                new Rectangle((int)position.X, (int)position.Y, (int)(Skalierung * Frame.Width), (int)(Skalierung * Frame.Height)),
                 new Rectangle(
-                  AktuelleSpalte * Breite,
-                  Richtung * Höhe,
-                  Breite, Höhe),
+                  Frame.X + (AktuelleSpalte * Frame.Width),
+                  Frame.Y + (Richtung * Frame.Height),
+                  Frame.Width, Frame.Height),
                 color
                 );
         }
@@ -80,9 +82,9 @@ namespace DyingHope
                 Texture,
                 new Rectangle((int)feld.X, (int)feld.Y, feld.Width, feld.Height),
                 new Rectangle(
-                  AktuelleSpalte * Breite,
-                  Richtung * Höhe,
-                  Breite, Höhe),
+                  Frame.X + (AktuelleSpalte * Frame.Width),
+                  Frame.Y + (Richtung * Frame.Height),
+                  Frame.Width, Frame.Height),
                 color
                 );
         }
@@ -97,11 +99,11 @@ namespace DyingHope
 
             spriteBatch.Draw(
                 Texture,
-                new Rectangle((int)position.X, (int)position.Y, (int)(skalierung * Breite), (int)(skalierung * Höhe)),
+                new Rectangle((int)position.X, (int)position.Y, (int)(skalierung * Frame.Width), (int)(skalierung * Frame.Height)),
                 new Rectangle(
-                  AktuelleSpalte * Breite,
-                  Richtung * Höhe,
-                  Breite, Höhe),
+                  Frame.X + (AktuelleSpalte * Frame.Width),
+                  Frame.Y + (Richtung * Frame.Height),
+                  Frame.Width, Frame.Height),
                 color
                 );
         }

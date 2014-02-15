@@ -155,21 +155,37 @@ namespace DyingHope
             }
         }
 
-        public void Draw(Gamestate gamestate, SpriteBatch spriteBatch, GraphicsDevice device)
+        public void Draw(Gamestate gamestate, SpriteBatch spriteBatch, GraphicsDevice device, List<RenderTarget2D> targets)
         {
             if (gamestate == Gamestate.Game)
             {
-                foreach (Background background in Backgrounds)
+                for (int i = 0; i < Backgrounds.Count;i++ )
                 {
-                    background.Draw(spriteBatch, device, Color.White, Player.PositionCurrent);
+                    device.SetRenderTarget(targets[i]);
+                    device.Clear(Color.Transparent);
+
+                    spriteBatch.Begin();
+                    
+                    Backgrounds[i].Draw(spriteBatch, device, Color.White, Player.PositionCurrent);
+                    spriteBatch.End();
+
+                    device.SetRenderTarget(null);
                 }
             }
             else if (gamestate == Gamestate.Editor)
             {
-                foreach (Background background in Backgrounds)
+                for (int i = 0; i < Backgrounds.Count; i++)
                 {
-                    if (background == Editor.AuswahlHintergrund) background.Draw(spriteBatch, device, new Color(255, 60, 60), Player.PositionCurrent);
-                    else background.Draw(spriteBatch, device, Color.White, Player.PositionCurrent);
+                    device.SetRenderTarget(targets[i]);
+                    device.Clear(Color.Transparent);
+
+                    spriteBatch.Begin();
+                    if (Backgrounds[i] == Editor.AuswahlHintergrund) Backgrounds[i].Draw(spriteBatch, device, new Color(255, 60, 60), Player.PositionCurrent);
+                    else Backgrounds[i].Draw(spriteBatch, device, Color.White, Player.PositionCurrent);
+                   
+                    spriteBatch.End();
+
+                    device.SetRenderTarget(null);
                 }
             }
         }

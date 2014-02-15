@@ -98,6 +98,8 @@ namespace DyingHope
         Effect grayScale;
         Emitter testEmitter, rainEmitter, leavEmitter,menue;
 
+        List<RenderTarget2D> backGroundTargets;
+
         double noiseTime;
         public static float glitch = 0.0001f;
 
@@ -153,6 +155,7 @@ namespace DyingHope
             BackgroundMusic = new BackgroundMusic(Settings, menueTheme);
             Inputmanager = new Inputmanager(Contents, Camera, Player, Keymanager, Cursor, Enemymanager, Windowmanager, Backgroundmanager, Backgrounddatabase, Objectmanager, Objectdatabase, Eventmanager, Levelmanager, Levermanager, Content, Editor, Debug, DepressionHandler, Mathe, Itemmanager, BackgroundMusic);
 
+            backGroundTargets = new List<RenderTarget2D>();
             //Testemitter-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             //testEmitter = new Emitter(new Vector2(3000, 850), DebugFlag.Pertikle);
             //testEmitter.startParticel = 50;
@@ -305,6 +308,13 @@ namespace DyingHope
                             Windowmanager.AddWindow(Windowtype.Topbar);
                             Windowmanager.AddWindow(Windowtype.Editor);
                             Keymanager.TastenEditor();
+                            if (Backgroundmanager.Backgrounds.Count > backGroundTargets.Count)
+                            {
+                                for (int i = 1; i < (Backgroundmanager.Backgrounds.Count - backGroundTargets.Count); i++)
+                                {
+                                    backGroundTargets.Add(new RenderTarget2D(GraphicsDevice,SpielGesamt.Width,SpielGesamt.Height));
+                                }
+                            }
                             Cursor.Kamera.Zoom = 1;
                             break;
                         case Menuestate.LeaveEditor: 
@@ -357,8 +367,19 @@ namespace DyingHope
         protected override void Draw(GameTime gameTime)
         {
             //Spielwelt // Editor // Hauptmenü-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+           
+            Backgroundmanager.Draw(Gamestate, spriteBatch, GraphicsDevice,backGroundTargets);
+
             GraphicsDevice.Clear(Color.CornflowerBlue);
             GraphicsDevice.SetRenderTarget(SpielGesamt);
+
+            spriteBatch.Begin();
+            foreach (RenderTarget2D r in backGroundTargets)
+            {
+                spriteBatch.Draw(r, Vector2.Zero, Color.White);
+            }
+            spriteBatch.End();
+           
             spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend, null, null, null,null, Camera.ViewMatrix);
             switch (Gamestate)
             {
@@ -370,7 +391,7 @@ namespace DyingHope
                     }
                     break;
                 case Gamestate.Game:
-                    Backgroundmanager.Draw(Gamestate, spriteBatch, GraphicsDevice);
+                    
                     Objectmanager.Draw(spriteBatch);
                     Itemmanager.Draw(spriteBatch);
                     Enemymanager.Draw(spriteBatch);
@@ -382,7 +403,7 @@ namespace DyingHope
                     Player.DrawDepressionsmaske(spriteBatch);
                     break;
                 case Gamestate.Editor:
-                    Backgroundmanager.Draw(Gamestate, spriteBatch, GraphicsDevice);
+                    
                     Objectmanager.Draw(spriteBatch);
                     Itemmanager.Draw(spriteBatch);
                     Enemymanager.Draw(spriteBatch);
@@ -403,6 +424,8 @@ namespace DyingHope
             //Shader--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             if (DepressionHandler.isSet(DepressionState.GrayScal))  applyShader(spriteBatch,SpielGesamt,Contents.GrayScale) ;
             if (DepressionHandler.isSet(DepressionState.InvertScreen))  applyShader(spriteBatch, SpielGesamt, Contents.Invert);
+            if (DepressionHandler.isSet(DepressionState.InvertHoriScreen)) applyShader(spriteBatch, SpielGesamt, Contents.InvertHori);
+
 
             noiseTime = gameTime.TotalGameTime.Milliseconds + 1;
             //Contents.FOV.Parameters["OuterVig"].SetValue(1.5+0.3*Math.Sin(noiseTime + 5.0*Math.Cos(noiseTime*3.0)));

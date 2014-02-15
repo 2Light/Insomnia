@@ -32,9 +32,18 @@ namespace DyingHope
         Grasstreifen,
         Tempel,
         Tempel2,
+<<<<<<< HEAD
         Blaetter,
         Grasschraegen1,
         Grasschraegen2,
+=======
+        Tempel3,
+        Blaetter,
+        Grasschraegen1,
+        Grasschraegen2,
+        Fuchsbau,
+        Wohnung,
+>>>>>>> origin/Andre
     }
 
     class Objectdatabase
